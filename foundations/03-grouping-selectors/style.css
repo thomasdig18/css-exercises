@@ -1,0 +1,13 @@
+.btn_1 {
+    background-color: black;
+    color: white;
+}
+
+.btn_2 {
+    background-color: yellow;
+}
+
+.btn_1, .btn_2 {
+    font-size: 28px;
+    font-style: Helvetica, sans-serif;
+}
